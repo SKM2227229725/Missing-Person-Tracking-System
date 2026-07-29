@@ -7,7 +7,6 @@ A full-stack web application that helps users report, search, and track missing 
 - 🔐 JWT Authentication
 - 👤 User Registration & Login
 - 📝 Create Missing Person Reports
-- 📷 Image Upload (Cloudinary)
 - 🔍 Search & Filter Reports
 - 📍 Report Details
 - 👤 User Profile
