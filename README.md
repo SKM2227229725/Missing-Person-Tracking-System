@@ -66,7 +66,6 @@ python manage.py runserver
 - Email Notifications
 - Live Tracking
 - QR Code Support
-- Mobile App
 
 ## 👨‍💻 Author
 
