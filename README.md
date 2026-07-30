@@ -26,6 +26,7 @@ A full-stack web application that helps users report, search, and track missing 
 - Python
 - Django
 - DRF
+- API 
 
 **Database**
 - PostgreSQL
