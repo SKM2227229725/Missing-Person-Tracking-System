@@ -72,4 +72,4 @@ python manage.py runserver
 
 **Shailesh Kumar**
 
-Full Stack Developer | Python Developer | AI Enthusiast| || GSoC
+Full Stack Developer | Python Developer | AI Enthusiast| open source contributer
