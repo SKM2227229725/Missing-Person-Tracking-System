@@ -1,6 +1,6 @@
 # 🧑‍🤝‍🧑 Missing Person Tracking System using ai
 
-A full-stack web application that helps users report, search, and track missing person cases. The platform provides secure authentication, role-based access, image uploads, and an admin dashboard to manage reports efficiently.
+A full-stack web application that helps users report, search, and track missing person cases. The platform provides secure authentication, role-based access, image uploads, and an admin dashboard to manage reports efficiently...............
 
 ## 🚀 Features
 
